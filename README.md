@@ -1,2 +1,2 @@
-# Tessercube2-Meta-RFC
+# Tessercube2-Meta-DSD
 RFC documents for Tessercube 2
