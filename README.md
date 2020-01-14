@@ -1,2 +1,2 @@
 # Tessercube2-Meta-DSD
-DSD documents for Tessercube 2
+Design Specification Documents for Tessercube 2
